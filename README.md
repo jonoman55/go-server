@@ -24,6 +24,6 @@ Start command:
 | GET | /posts/:id | Get Post By ID |
 | DELETE | /posts/:id | Delete Post |
 
-### License
+## License
 
 MIT
